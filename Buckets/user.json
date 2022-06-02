@@ -1,0 +1,17 @@
+[
+    {
+        "username": "admin",
+        "password": "12345",
+        "role": "admin"
+    },
+    {
+        "username": "shuvo",
+        "password": "12345",
+        "role": "uploader"
+    },
+    {
+        "username": "touhedur",
+        "password": "12345",
+        "role": "reviewer"
+    }
+]
